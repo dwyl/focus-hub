@@ -1,14 +1,19 @@
 # QuietSpace
 
-> _Where London's most creative people go to get (["deep"](https://www.youtube.com/watch?v=KX_2a_jsGYw))
-creative work **done**_.
+> _Where London's most creative people go to get (["deep"](https://www.youtube.com/watch?v=KX_2a_jsGYw)) work **done**_.
+
+![quiet-please-wall-art](https://cloud.githubusercontent.com/assets/194400/23511482/1cbe7720-ff55-11e6-8f21-82753e5dab6a.jpg)
 
 ## _Why_?
 
+There are _hundreds_ of co-working spaces/offices in London,
+so why do we **_need_ another one**?
+
 > `As a` ***creative person*** (_writer/designer/developer/videographer_)<br />
 > `I need` a **_quite_ place** to get my **work _done_** (_without interruptions_) <br />
-> `So that` I can ***be/feel productive***
-We want to _share_ that environment with other like-minded creative people.
+> `So that` I can ***be/feel productive***. <br />
+
+> As the members of QuietSpace want to _share_ that environment with other like-minded creative people.
 
 ### `QuietSpace`'s _Mission_ is to curate the most <br />_creatively productive_ working environment in London.
 
@@ -18,6 +23,38 @@ We want to _share_ that environment with other like-minded creative people.
 
 Map: https://www.google.co.uk/maps/place/16+Palmers+Rd,+London+E2+0SY/ <br />
 Contact: <a href="tel:02036090609">0203 609 0609</a>
+
+#### Features
+
++ A well-designed work space with all the amenities you expect (_good internet and cell phone signal_)
+
++ Proximity to transport links (Tube & Bus), "Cycle Hire" station 100m from our door.
+
++ Multiple bicycle racks (_for locking your bike_) 50m from office.
+
++ Close to town if you need to go in for a client meeting, pitch or lunch with a friend.
+
++ Like-minded creative professionals working on highly innovative projects. We share all our knowledge openly/cooperatively so you can learn how to make any digital product from concept/design to running on customer's devices!
+
++ Next to Regents Canal (_perfect for people who cycle or like running_)
+
++ 4 Parks within walking distance.
+
++ Great Gym (2 minutes walk)
+
++ Out-door/Park Gym (_free. also 2 mins walk_)
+
++ Mile End Climbing Wall (5 minutes walk): https://www.mileendwall.org.uk/
+
++ Great restaurants & cafes nearby 5mins walk.
+
++ Free tea & coffee (_tell us what your favourite brand/flavour is and will make sure it's always in stock!_)
+
++ Free Fresh Fruit for members.
+
++ Blender and Juicer equipment so you can make your own. (_or for "cost price" you can buy made-this-moring cold-pressed organic juice or smoothies from our supplier_)
+
++ Fridge and microwave oven.
 
 #### Desk Rental Rates >> _Simple/Transparent Pricing_
 
@@ -81,7 +118,7 @@ The most productive people in the world all have a well-defined Timetable for ge
 | 19:00 - 20:30 | Meetup, Event or Evening Training (_training space bookable by members_) |
 | 20:30 - 21:00 | Tidy up the space ready for next session. |
 | 21:00 - 23:00 | "Late Shift" Focus Time (_Upstairs only. please whisper or use "instant messaging" to communicate_) |
-| 23:00 - 04:00 | "Night Owls Club" (_for people who work best at night. Upstairs only.  Please apply for a door key. Door must be kept locked except for entry/exit. No Slumber Parties! Last person out switch off all lights and arm the alarm!_) |
+| 23:00 - 04:00 | "Night Owls Club" (_for people who work best at night. Upstairs only.  Please apply for a door key. Door must be kept locked except for entry/exit. No Slumber Parties! ;-) Last person out switch off all lights/heaters and set the alarm!_) |
 
 
 ## How? (_Proposal_)
@@ -89,7 +126,7 @@ The most productive people in the world all have a well-defined Timetable for ge
 Our "***metric***" for this should be a "hybrid" NPS/Productivity score.
 
 > Mark will formulate exactly how to calculate this and capture the data
-  from all members on an on-going basis.
+  from all members on an on-going basis. This is one of our USPs so getting regular data/feedback is essential.
 
 ### TODO
 
@@ -162,9 +199,12 @@ Either way, I don't think lowering the prices _now_ is a good idea
 because it _de-values_ the place and signals "_we'll take anyone_" ...
 
 
-### Constraints
+### Constraints/Blockers
 
 + Bathroom (Toilet) Facilities ...
+(_possible mitigation in suggestions below_)
++ Locker/Storage space
++ Lots of junk lying around upstairs and [downstairs]()
 
 ### Suggestion Improvements (_for discussion_)
 
@@ -182,9 +222,7 @@ can see from a glace if it's free. This can bee hooked up using IoT
 + [ ] Lockers? (_with actual locks ... please open issue to discuss_)
 + [ ] Desk Numbering?
 + [ ] QR Codes on Desks so people "Check-in" for the day?
-+ [ ] ***Meetups***? Can we hold meetups in the space e.g. 19:00 - 20:30?
-
-crucially will they add value to the members?
++ [ ] ***Meetups***? Can we hold meetups in the space e.g. 19:00 - 20:30? crucially will they add value to the members and wider community?
 + [ ] Register for VAT? https://www.gov.uk/vat-registration-thresholds we don't
 need to. is there any point in collecting paying VAT...?
 
