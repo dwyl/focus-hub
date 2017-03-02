@@ -75,7 +75,7 @@ storage lockers for food/chargers etc. (_for full-time members_)
 
 ### World-Class Meetup & Training Venue
 
-Part dwyl's of our mission to help everyone discover what they love doing requires us to share our knowledge through Meetups and training.
+Part of dwyl's of our mission to help everyone discover what they love doing requires us to share our knowledge through Meetups and training.
 
 We have _already **successfully**_ used the space for training both
 our own team members, our clients and complete strangers.
@@ -85,8 +85,10 @@ where people can view (_and register interest_) our specific training.
 
 #### What Will We Learn?
 
-We already have a [52+](https://github.com/search?q=org%3Adwyl+learn)
-tutorials in various levels of "maturity" which we plan to convert into video content by recording a "complete beginners workshop"
+We already have a "bank" of
+[52+](https://github.com/search?q=org%3Adwyl+learn)
+tutorials in various levels of "maturity" which we plan to create
+a video introduction for. The format this will take is recording a "complete beginners workshop" see: https://github.com/dwyl/hq/issues/267
 
 We have a _rough **order**_ for the learning material:
 https://github.com/dwyl/the-book/issues/69 but we expect to be "_dynamic_" and will respond to the requests/needs of the attendees/members.
