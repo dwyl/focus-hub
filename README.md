@@ -1,6 +1,6 @@
 # QuietSpace
 
-> _Get (["deep"](https://www.youtube.com/watch?v=KX_2a_jsGYw))
+> _Where London's most creative people go to get (["deep"](https://www.youtube.com/watch?v=KX_2a_jsGYw))
 creative work **done**_.
 
 ## _Why_?
@@ -10,44 +10,124 @@ creative work **done**_.
 > `So that` I can ***be/feel productive***
 We want to _share_ that environment with other like-minded creative people.
 
+### `QuietSpace`'s _Mission_ is to curate the most <br />_creatively productive_ working environment in London.
+
 ## What?
 
-A co-working space located at 16 Palmers Rd, London, E2 0SY, United Kingdom
+### A Co-Working Space Located at 16 Palmers Rd, London, E2 0SY
 
 Map: https://www.google.co.uk/maps/place/16+Palmers+Rd,+London+E2+0SY/ <br />
 Contact: <a href="tel:02036090609">0203 609 0609</a>
 
-### Desk Rental Rates >> _Simple/Transparent Pricing_
+#### Desk Rental Rates >> _Simple/Transparent Pricing_
 
-+ Monthly Subscription **£170/desk** (_hot desk + clean desk policy_)
+We aim to be _cost-effective_ while giving our members lots of added value.
+
++ Monthly Subscription **£180/desk** (_hot desk + clean desk policy_)
 + Pay-as-you-Go **£11/day** (_sold in blocks of 5 "credits"_)
 
-> "Old" Pricing: http://www.founderlondon.com/images/workhere.jpg
+> "Old" Pricing: http://www.founderlondon.com/images/workhere.jpg <br />
 > Discussion: https://github.com/foundersandcoders/london-programme/issues/42
+
+### World-Class Meetup & Training Venue
+
+Part dwyl's of our mission to help everyone discover what they love doing requires us to share our knowledge through Meetups and training.
+
+We have _already **successfully**_ used the space for training both
+our own team members, our clients and complete strangers.
+
+Our plan is to create a _public_ training calendar for QuietSpace
+where specific training is regular.
+
+#### What Will We Learn?
+
+We already have a [52+](https://github.com/search?q=org%3Adwyl+learn)
+tutorials in various levels of "maturity" which we plan to convert into video content by recording a "complete beginners workshop"
+
+We have a _rough **order**_ for the learning material:
+https://github.com/dwyl/the-book/issues/69 but we expect to be "_dynamic_" and will respond to the requests/needs of the attendees/members.
+
+
+
+
+#### Training Registration System
+
+For the QuiteSpace-based training we will need a
+registration system/process so people can
+book a space on the training for a specific day/time.
+(_The **MVP** can use an
+**existing "booking" tool** provided we capture all the requirements
+before making a decision. as always we **prefer open source**._)
+
+
+
+
+### QuietSpace Timetable for Co-Working, Breaks and Meetups/Training
+
+The most productive people in the world all have a well-defined Timetable for getting their work done.
+
+|Start - End    | Description |
+|---------------|-------|
+| 04:00 - 06:00 | Healthy food preparation (_upstairs available for work, expect some noise will be made downstairs_) |
+| 06:00 - 07:00 | Self-guided Yoga / Pilates / Mindfulness (Downstairs), Reading or Quiet work Upstairs |
+| 07:00 - 10:00 | "Early Bird's" Focus Time (_absolute silence please this is when we get our best work done_) |
+| 10:00 - 10:30 | Morning break (_moderate chat/noise acceptable_) |
+| 10:30 - 12:30 | Morning Focus Time (_please whisper or use "instant messaging" to communicate_) |
+| 12:30 - 14:00 | Lunch Break (_moderate chat/noise acceptable though please be respectful of people working through lunch_) |
+| 14:00 - 16:00 | Afternoon Focus Time (_please whisper or use "instant messaging" to communicate_) |
+| 16:00 - 16:30 | Afternoon Break (_moderate chat/noise acceptable_) |
+| 16:30 - 18:30 | "Final Push" Focus Time (_please whisper or use "instant messaging" to communicate_) |
+| 18:30 - 19:00 | "Show & Tell", "Get Help", "Q&A", "Decompress Time" |
+| 19:00 - 20:30 | Meetup, Event or Evening Training (_training space bookable by members_) |
+| 20:30 - 21:00 | Tidy up the space ready for next session. |
+| 21:00 - 23:00 | "Late Shift" Focus Time (_Upstairs only. please whisper or use "instant messaging" to communicate_) |
+| 23:00 - 04:00 | "Night Owls Club" (_for people who work best at night. Upstairs only.  Please apply for a door key. Door must be kept locked except for entry/exit. No Slumber Parties! Last person out switch off all lights and arm the alarm!_) |
 
 
 ## How? (_Proposal_)
 
-We need to make QuietSpace the most _productive_ working environment in London.
-Our "metric" for this should be a "hybrid" NPS/Productivity score
+Our "***metric***" for this should be a "hybrid" NPS/Productivity score.
 
 > Mark will formulate exactly how to calculate this and capture the data
   from all members on an on-going basis.
 
 ### TODO
 
-+ [ ] Membership Registration System (_can be a **spreadsheet** for MVP_)
++ [ ] **Market _Validation_**
+  + [ ] Create a basic survey (_using your choice of survey tool_)
+  with ***questions*** (_proposed_):
+    + [ ] Where do you get your most valuable work done?
+    + [ ] What time of day are you most productive?
+    + [ ] On a scale of 1 - 5
+    (_where 1 is **disagree strongly** and 5 is **agree strongly**_)
+    + I work best when in a quiet environment.
+    + I regularly wear earphones to block out noise
+    when I'm trying to concentrate on my work.
+    + I find it difficult to get back into my work if I am interrupted.
+    + I like to openly discuss my work with my co-workers and pick their brains without calling a "formal" meeting.
+  + [ ] Collect responses to the survey by using Google Adwords
+  to target people who are searching for "London Co-Working" direct them to the survey.
+  + [ ] Use Google Analytics to track response/dropout rate.
++ [ ] ***Membership Registration/Management*** System (_can be a [**spreadsheet**](https://github.com/dwyl/html-form-send-email-via-google-script-without-server) for MVP with a view to using our [CRM](https://github.com/dwyl/hq/issues/161) after MVP_)
 but ideally would link to the ***payment processing***/verification so it's clear who has paid.
-+ [ ] Monthly/Pay-as-you-Go Payment Collection System
-+ [ ] Desk allocation system (_so people can **reserve** a **specific desk**
+
++ [ ] Monthly/Pay-as-you-Go **Payment Collection** System (_e.g: GoCardless_)
+
++ [ ] **Desk allocation** system (_so people can **reserve** a **specific desk**
   if they want to and we **know** when we're "**full**"_)
-+ [ ] Anonymous feedback system so people can complain if they feel the need to?
+
++ [ ] **Check-in** system when people arrive (_also useful for fire safety_)
+
++ [ ] Anonymous ***feedback*** system so people can complain if they feel the need to?
 see: https://github.com/dwyl/hq/issues/183
 
+> Making the QuiteSpace Co-working space a success
+is an _integral_ part of dwyl's wider mission.
+Having a productive place for our London-based team
+to work is _essential_ for in-person collaboration.
 
 
-
-### Fixed Overheads (_Costs we have to cover_)
+### _Fixed_ Overheads (_Costs we have to Cover_)
 
 We calculate our pricing based on our need to cover ***Fixed Overheads***:
 + Rent: £2500 (_please input exact number_)
@@ -60,8 +140,8 @@ We calculate our pricing based on our need to cover ***Fixed Overheads***:
 
 Total _Fixed_ Costs: £3,600
 
-> _**Question**: should we **budget** for an **Office Manager**? (part time?)_
-please discuss: https://github.com/dwyl/quietspace/issues/25
+> _**Question**: should we **budget** for an **Office Manager**? (part time?)_ <br />
+_please discuss_: https://github.com/dwyl/quietspace/issues/25
 
 ### Number of Desks
 
@@ -71,6 +151,8 @@ please discuss: https://github.com/dwyl/quietspace/issues/25
 ### _Potential_ Revenue at "_Full Capacity_"
 
 32 Places @ £170/month = **£5,440**
+
+_actual_
 
 Which means that we _could_ either accumulate a surplus and spend it
 on making the space nicer for everyone, or we can lower prices once
@@ -101,6 +183,7 @@ can see from a glace if it's free. This can bee hooked up using IoT
 + [ ] Desk Numbering?
 + [ ] QR Codes on Desks so people "Check-in" for the day?
 + [ ] ***Meetups***? Can we hold meetups in the space e.g. 19:00 - 20:30?
+
 crucially will they add value to the members?
 + [ ] Register for VAT? https://www.gov.uk/vat-registration-thresholds we don't
 need to. is there any point in collecting paying VAT...?
@@ -115,7 +198,8 @@ for the company/invoices etc.
 
 ## Inspiration
 
-+ https://secondhome.io
++ https://secondhome.io dwyl-er [@hyprstack](https://www.linkedin.com/in/mario-mendes-30491820/ "Mario Mendes")
+works at "SecondHome" and has offered to give us a tour.
 + https://www.quora.com/What-is-the-best-coworking-space-in-London
 + https://99designs.co.uk/blog/business-en-gb/best-co-working-spaces-london/
 + http://www.creativeboom.com/features/10-creative-co-working-studios-in-london-for-designers-and-freelancers/
