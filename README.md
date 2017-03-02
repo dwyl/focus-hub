@@ -20,7 +20,7 @@ Contact: <a href="tel:02036090609">0203 609 0609</a>
 ### Desk Rental Rates >> _Simple/Transparent Pricing_
 
 + Monthly Subscription **£170/desk** (_hot desk + clean desk policy_)
-+ Pay-as-you-Go £11/day
++ Pay-as-you-Go **£11/day** (_sold in blocks of 5 "credits"_)
 
 > "Old" Pricing: http://www.founderlondon.com/images/workhere.jpg
 > Discussion: https://github.com/foundersandcoders/london-programme/issues/42
@@ -36,9 +36,15 @@ Our "metric" for this should be a "hybrid" NPS/Productivity score
 
 ### TODO
 
-+ [ ] Membership Registration System (_can be a spreadsheet for MVP_)
-but ideally would link to payment processing/verification so it's clear who has paid.
-+ [ ] Desk allocation system (_so people can reserve a specific desk if they want to_)
++ [ ] Membership Registration System (_can be a **spreadsheet** for MVP_)
+but ideally would link to the ***payment processing***/verification so it's clear who has paid.
++ [ ] Monthly/Pay-as-you-Go Payment Collection System
++ [ ] Desk allocation system (_so people can **reserve** a **specific desk**
+  if they want to and we **know** when we're "**full**"_)
++ [ ] Anonymous feedback system so people can complain if they feel the need to?
+see: https://github.com/dwyl/hq/issues/183
+
+
 
 
 ### Fixed Overheads (_Costs we have to cover_)
