@@ -10,7 +10,7 @@ There are _hundreds_ of co-working spaces/offices in London,
 so why do we **_need_ another one**?
 
 > `As a` ***creative person*** (_writer/designer/developer/videographer_)<br />
-> `I need` a **_quite_ place** to get my **work _done_** (_without interruptions_) <br />
+> `I need` a **_quiet_ place** to get my **work _done_** (_without interruptions_) <br />
 > `So that` I can ***be/feel productive***. <br />
 
 > As the members of QuietSpace want to _share_ that environment with other like-minded creative people.
@@ -26,13 +26,16 @@ Contact: <a href="tel:02036090609">0203 609 0609</a>
 
 #### Features
 
-+ A well-designed work space with all the amenities you expect (_good internet and cell phone signal_)
++ A **_well-designed_ work space** with all the amenities you expect (_good internet and cell phone signal_)
 
-+ Proximity to transport links (Tube & Bus), "Cycle Hire" station 100m from our door.
++ **Cost-effective** (_competitive_) **Membership Rates**
+with excellent added-value benefits.
 
-+ Multiple bicycle racks (_for locking your bike_) 50m from office.
++ Great **transport links** (Tube & Bus), "**Cycle Hire**" station **100m** from our door.
 
-+ Close to town if you need to go in for a client meeting, pitch or lunch with a friend.
++ Multiple bicycle racks (_for locking your bike_) 50m from office (_with CCTV for peace-of-mind_)
+
++ Close to town if you need to go in for a client meeting, pitch an investor or lunch with a friend.
 
 + Like-minded creative professionals working on highly innovative projects. We share all our knowledge openly/cooperatively so you can learn how to make any digital product from concept/design to running on customer's devices!
 
@@ -56,11 +59,15 @@ Contact: <a href="tel:02036090609">0203 609 0609</a>
 
 + Fridge and microwave oven.
 
++ Registered Office for your Company with mail service.
+Get your **post/parcels** delivered to the office at no extra cost.
+
 #### Desk Rental Rates >> _Simple/Transparent Pricing_
 
 We aim to be _cost-effective_ while giving our members lots of added value.
 
 + Monthly Subscription **£180/desk** (_hot desk + clean desk policy_)
+storage lockers for food/chargers etc. (_for full-time members_)
 + Pay-as-you-Go **£11/day** (_sold in blocks of 5 "credits"_)
 
 > "Old" Pricing: http://www.founderlondon.com/images/workhere.jpg <br />
@@ -74,7 +81,7 @@ We have _already **successfully**_ used the space for training both
 our own team members, our clients and complete strangers.
 
 Our plan is to create a _public_ training calendar for QuietSpace
-where specific training is regular.
+where people can view (_and register interest_) our specific training.
 
 #### What Will We Learn?
 
@@ -89,7 +96,7 @@ https://github.com/dwyl/the-book/issues/69 but we expect to be "_dynamic_" and w
 
 #### Training Registration System
 
-For the QuiteSpace-based training we will need a
+For the QuietSpace-based training we will need a
 registration system/process so people can
 book a space on the training for a specific day/time.
 (_The **MVP** can use an
@@ -158,7 +165,7 @@ but ideally would link to the ***payment processing***/verification so it's clea
 + [ ] Anonymous ***feedback*** system so people can complain if they feel the need to?
 see: https://github.com/dwyl/hq/issues/183
 
-> Making the QuiteSpace Co-working space a success
+> Making the QuietSpace Co-working space a success
 is an _integral_ part of dwyl's wider mission.
 Having a productive place for our London-based team
 to work is _essential_ for in-person collaboration.
@@ -189,7 +196,10 @@ _please discuss_: https://github.com/dwyl/quietspace/issues/25
 
 32 Places @ £170/month = **£5,440**
 
-_actual_
+> _**initially** the **actual** occupancy will be lower,
+but if we **focus on our "One Metric that Matters" (OMTM)**
+we will easily get to full membership + waiting list_.
+
 
 Which means that we _could_ either accumulate a surplus and spend it
 on making the space nicer for everyone, or we can lower prices once
