@@ -94,8 +94,6 @@ We have a _rough **order**_ for the learning material:
 https://github.com/dwyl/the-book/issues/69 but we expect to be "_dynamic_" and will respond to the requests/needs of the attendees/members.
 
 
-
-
 #### Training Registration System
 
 For the QuietSpace-based training we will need a
@@ -104,8 +102,6 @@ book a space on the training for a specific day/time.
 (_The **MVP** can use an
 **existing "booking" tool** provided we capture all the requirements
 before making a decision. as always we **prefer open source**._)
-
-
 
 
 ### QuietSpace Timetable for Co-Working, Breaks and Meetups/Training
@@ -173,22 +169,6 @@ Having a productive place for our London-based team
 to work is _essential_ for in-person collaboration.
 
 
-### _Fixed_ Overheads (_Costs we have to Cover_)
-
-We calculate our pricing based on our need to cover ***Fixed Overheads***:
-+ Rent: £2500 (_please input exact number_)
-+ Rates: £500
-+ Electricity: £200/month
-+ Cleaning: £100/month
-+ Internet: £100/month
-+ Insurance: £50/month
-+ "Free" Tea & Coffee: £50/month  (_please define a monthly budget_)
-
-Total _Fixed_ Costs: £3,600
-
-> _**Question**: should we **budget** for an **Office Manager**? (part time?)_ <br />
-_please discuss_: https://github.com/dwyl/quietspace/issues/25
-
 ### Number of Desks
 
 + Upstairs: 16 Seats, 2 Standing Desks
@@ -196,7 +176,10 @@ _please discuss_: https://github.com/dwyl/quietspace/issues/25
 
 ### _Potential_ Revenue at "_Full Capacity_"
 
-32 Places @ £170/month = **£5,440**
+32 Places @ £180/month = **£5,760**
+
+This will cover our costs and could pay for an
+[***Office Manager***](https://github.com/dwyl/quietspace/issues/25)
 
 > _**initially** the **actual** occupancy will be lower,
 but if we **focus on our "One Metric that Matters" (OMTM)**
@@ -217,6 +200,89 @@ because it _de-values_ the place and signals "_we'll take anyone_" ...
 (_possible mitigation in suggestions below_)
 + Locker/Storage space
 + Lots of junk lying around upstairs and [downstairs]()
+
+
+
+### _Fixed_ Overheads (_Costs we have to Cover_)
+
+We calculate our pricing based on our need to cover ***Fixed Overheads***:
++ Rent: £2500 (_please input exact number_)
++ Rates: £500
++ Electricity: £200/month
++ Cleaning: £100/month
++ Internet: £100/month
++ Insurance: £50/month
++ "Free" Tea & Coffee: £50/month  (_please define a monthly budget_)
+
+Total _Fixed_ Costs: £3,600
+
+> _**Question**: should we **budget** for an **Office Manager**? (part time?)_ <br />
+_please discuss_: https://github.com/dwyl/quietspace/issues/25
+
+### Office Manager
+
+> There is still an _open_ discussion on the _need_ for an "Office Manager"
+please see: https://github.com/dwyl/quietspace/issues/25
+
+The Office Manager (_or **two** people who "job share"_)
+is responsible for ensuring the wellbeing and _thriving_ of members.
+
+![image](https://cloud.githubusercontent.com/assets/194400/23541687/de0bf28c-ffe0-11e6-8de4-d4163eed8981.png)
+
+People cannot reach the full (_creative_) potential if their
+"_basic needs_" aren't met.
+
+#### Responsibilities
+
+
++ Opening the Office (_if no members with keys open the space first_)
++ Member Relations
+  + Inducting all new members with:
+    + "Welcome Pack" (_this can be via email_)
+    + Health & Fire Safety Briefing
+    + Photo for our "Members Directory"
+    + Scan new member's ID (_e.g driver's license or passport_)
+    for Enhanced Disclosure purposes
+    (_we need to know exactly who we are working with_).
+    + Encourage them to connect with LinkedIn so people can see their skills.
+  + Ensuring _existing_ members are well looked after & needs are met.
+    + Coffee/Tea/Milk/Alternatives
+    (_ensure we are always stocked with member's favourites_)
+    + Sate of repair for all fixtures/fittings, lighting bathroom
+    + WiFi (_monthly signal and speed tests to ensure quality_)
+  + Security & Safety are regularly checked
+    + Door Entry System is checked
+    + Fire Alarm tests (_quarterly test all sensors and alarm_)
+  + Responding to _new_ member applications/registrations (_promptly_)
+  + Ensuring that people in QS have reserved their desk for the day and have
+  checked-in so we know they are in the space (_both for fire safety and billing_).
+  + Resolving any Member Disputes (_hopefully these won't happen
+  but the person we hire needs to understand that it's possible that they
+  may need to "mediate" a "so-and-so is never cleans their desk
+  and makes lots of noise..." claim ..._)
+  + Revocation of Membership
+  (_we need clear membership criteria and a "3 strikes" rule enforcement._)
++ Receiving Post/Parcels on behalf of members
+  + Opening, Scanning and Emailing post for members who want this option.
+  + Fowarding or Returning-to-Sender
+  for addressees who are no longer (_paying_) members.
++ Ensuring that all accounts for QS are up-to-date (_bills/rates paid_)
++ Periodic check for "_better deal_" on Fixed Overheads e.g: faster internet,
+better insurance or alternative (green) energy supplier.
++ Maintaining the QS website?
++ Marketing the space to potential new members?
+
+#### Remuneration
+
+We expect the Office Manager to be paid (_around_) **£9/h** (_£18k/year_) <br />
+(_i.e: not a "fortune" but well above
+["London Living Wage"](https://www.trustforlondon.org.uk/policy-change/strategic-work-item/london-living-wage/)
+and a good step up for a lot of really good
+people who are currently stuck in "Zero Hour Contract" jobs._)
+
+> _**Note**: this compensation is a "**base**" and we will gladly
+discuss "**performance related pay**" for outstanding results.
+e.g: percentage of income over full occupancy and/or additional member services_.
 
 ### Suggestion Improvements (_for discussion_)
 
