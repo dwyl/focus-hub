@@ -274,7 +274,7 @@ better insurance or alternative (green) energy supplier.
 
 #### Remuneration
 
-We expect the Office Manager to be paid (_around_) **£9/h** (_£18k/year_) <br />
+We expect the Office Manager to be paid (_around_) **£11/h** (_£23k/year_) <br />
 (_i.e: not a "fortune" but well above
 ["London Living Wage"](https://www.trustforlondon.org.uk/policy-change/strategic-work-item/london-living-wage/)
 and a good step up for a lot of really good
