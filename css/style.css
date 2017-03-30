@@ -1,0 +1,38 @@
+body {
+  /*background-color: #FDFDFD;*/
+  background: url("../img/no16.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #36454f;
+  font-family: Helvetica;
+}
+
+a {
+  color: #00688B;
+  text-decoration: none;
+}
+
+a i:hover{
+  color: #36454f;
+}
+
+.content {
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+  padding: 13%;
+}
