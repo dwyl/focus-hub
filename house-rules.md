@@ -1,6 +1,6 @@
 ## House Rules
 
-These are the House
+These are the House Rules for Focus Hub:
 
 The Member will:
 - keep Desk Space in good repair and in a clean and tidy condition and free from any fire or health hazard and shall cause all waste and refuse to be removed and deposited in the collection area designated by the Licensor;
