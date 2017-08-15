@@ -10,6 +10,11 @@ The Member will:
 - conform to any statutory or similar regulations pertaining to the Member's business and use of the Office Space and Facilities and shall be bound by and perform all of the conditions, rules and regulations prescribed from time to time by the Licensor for the management of the Office Space ("House Rules") and by the Licensor's "Fair Use Policy" copies of both of which are available on request;
 - be jointly and severally liable to observe and perform the Member's obligations hereunder where the Member comprises of more than one individual;
 - ensure keys to the Office Space are kept safe and not handled by any person other than themselves;
-- ensure that when they are the last to leave the Office Space they will thoroughly inspect it, turn the lights off and securely lock all access to the premises when leaving; and
-- report loss of a key as soon as reasonably possible and in no more that 24 hours, should the Member lose a key.
-- adhere to the Office Space's daily quiet focus timeslots of 11:00 AM - 12:00 PM and 3:00 PM - 4:00 PM, at these times the Member must keep noise to a minimum and refrain from distracting others.
+- ensure that when they are the last to leave the Office Space they will thoroughly inspect it, turn the lights off and securely lock all access to the premises when leaving;
+- report loss of a key as soon as reasonably possible and in no more that 24 hours, should the Member lose a key;
+- adhere to the Office Space's daily quiet focus timeslots of 11:00 AM - 12:00 PM and 3:00 PM - 4:00 PM, at these times the Member must keep noise to a minimum and refrain from distracting others;
+- only use the storage space on and/or under your designated (fixed) or chosen (hot) desk;
+- wash dry and put away kitchen utensils and crockery after use;
+- contact the Office Space manager by email if you have any questions or feedback;
+- immediately contact the Office Space manager by phone and email in the event of an emergency; and
+- ensure you have the contact details for the Office Space manager recorded and if you do not have these details, you must request them from hello@focushub.co.uk.
