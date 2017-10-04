@@ -1,4 +1,4 @@
-# QuietSpace
+# Focus Hub
 
 > _Where London's most creative people go to get (["deep"](https://www.youtube.com/watch?v=KX_2a_jsGYw)) work **done**_.
 
@@ -13,9 +13,9 @@ so why do we **_need_ another one**?
 > `I need` a **_quiet_ place** to get my **work _done_** (_without interruptions_) <br />
 > `So that` I can ***be/feel productive***. <br />
 
-> As the members of QuietSpace want to _share_ that environment with other like-minded creative people.
+> As the members of Focus Hub want to _share_ that environment with other like-minded creative people.
 
-### `QuietSpace`'s _Mission_ is to curate the most <br />_creatively productive_ working environment in London.
+### `Focus Hub`'s _Mission_ is to curate the most <br />_creatively productive_ working environment in London.
 
 ## What?
 
@@ -80,7 +80,7 @@ Part of dwyl's of our mission to help everyone discover what they love doing req
 We have _already **successfully**_ used the space for training both
 our own team members, our clients and complete strangers.
 
-Our plan is to create a _public_ training calendar for QuietSpace
+Our plan is to create a _public_ training calendar for Focus Hub
 where people can view (_and register interest_) our specific training.
 
 #### What Will We Learn?
@@ -96,7 +96,7 @@ https://github.com/dwyl/the-book/issues/69 but we expect to be "_dynamic_" and w
 
 #### Training Registration System
 
-For the QuietSpace-based training we will need a
+For the Focus Hub-based training we will need a
 registration system/process so people can
 book a space on the training for a specific day/time.
 (_The **MVP** can use an
@@ -104,7 +104,7 @@ book a space on the training for a specific day/time.
 before making a decision. as always we **prefer open source**._)
 
 
-### QuietSpace Timetable for Co-Working, Breaks and Meetups/Training
+### Focus Hub Timetable for Co-Working, Breaks and Meetups/Training
 
 The most productive people in the world all have a well-defined Timetable for getting their work done.
 
@@ -163,7 +163,7 @@ but ideally would link to the ***payment processing***/verification so it's clea
 + [ ] Anonymous ***feedback*** system so people can complain if they feel the need to?
 see: https://github.com/dwyl/hq/issues/183
 
-> Making the QuietSpace Co-working space a success
+> Making the Focus Hub Co-working space a success
 is an _integral_ part of dwyl's wider mission.
 Having a productive place for our London-based team
 to work is _essential_ for in-person collaboration.
@@ -179,7 +179,7 @@ to work is _essential_ for in-person collaboration.
 32 Places @ £180/month = **£5,760**
 
 This will cover our costs and could pay for an
-[***Office Manager***](https://github.com/dwyl/quietspace/issues/25)
+[***Office Manager***](https://github.com/dwyl/Focus Hub/issues/25)
 
 > _**initially** the **actual** occupancy will be lower,
 but if we **focus on our "One Metric that Matters" (OMTM)**
@@ -217,12 +217,12 @@ We calculate our pricing based on our need to cover ***Fixed Overheads***:
 Total _Fixed_ Costs: £3,600
 
 > _**Question**: should we **budget** for an **Office Manager**? (part time?)_ <br />
-_please discuss_: https://github.com/dwyl/quietspace/issues/25
+_please discuss_: https://github.com/dwyl/Focus Hub/issues/25
 
 ### Office Manager
 
 > There is still an _open_ discussion on the _need_ for an "Office Manager"
-please see: https://github.com/dwyl/quietspace/issues/25
+please see: https://github.com/dwyl/Focus Hub/issues/25
 
 The Office Manager (_or **two** people who "job share"_)
 is responsible for ensuring the wellbeing and _thriving_ of members.
@@ -286,7 +286,7 @@ e.g: percentage of income over full occupancy and/or additional member services_
 
 ### Suggestion Improvements (_for discussion_)
 
-+ [ ] Leave door to F&C and QuietSpace open during the day so _both_ Toilets
++ [ ] Leave door to F&C and Focus Hub open during the day so _both_ Toilets
 can be used by members.
 + [ ] A Green lightbulb outside the bathroom linked to the bathroom light so people
 can see from a glace if it's free. This can bee hooked up using IoT
