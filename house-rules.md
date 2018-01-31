@@ -25,4 +25,4 @@ If you have any questions at all, just grab one of the team or email hello@focus
 
 * First make sure you're safe. Leave the space and call 999 immediately if there is a fire, or if anyone is injured
 * As long as you're not in any danger, contact one of the Focus Hub managers
-  * [Insert contact details]
+  * [Insert contact details from `Focus Hub (private) > Focus Hub Emergency Contact Numbers`]
