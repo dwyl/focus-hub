@@ -1,20 +1,28 @@
 ## House Rules
 
-These are the House Rules for Focus Hub:
+Focus Hub is a lovely and welcoming shared space, and we want to make sure it stays that way! So we ask all Members to keep the House Rules in mind when they're here.
 
-The Member will:
-- keep Desk Space in good repair and in a clean and tidy condition and free from any fire or health hazard and shall cause all waste and refuse to be removed and deposited in the collection area designated by the Licensor;
-- not cause any nuisance or annoyance to the Licensor or occupiers of the Office Space and respect common areas and leave these in a clean and tidy state;
-- pass to the Licensor any communications received relating to the Office Space;
-- use the Office Space and Facilities solely for office purposes. This Licence is personal to the Member and cannot be assigned or shared. It is agreed that this Licence is not intended to confer any tenancy or right of exclusive possession upon the Member;
-- conform to any statutory or similar regulations pertaining to the Member's business and use of the Office Space and Facilities and shall be bound by and perform all of the conditions, rules and regulations prescribed from time to time by the Licensor for the management of the Office Space ("House Rules") and by the Licensor's "Fair Use Policy" copies of both of which are available on request;
-- be jointly and severally liable to observe and perform the Member's obligations hereunder where the Member comprises of more than one individual;
-- ensure keys to the Office Space are kept safe and not handled by any person other than themselves;
-- ensure that when they are the last to leave the Office Space they will thoroughly inspect it, turn the lights off and securely lock all access to the premises when leaving;
-- report loss of a key as soon as reasonably possible and in no more that 24 hours, should the Member lose a key;
-- adhere to the Office Space's daily quiet focus timeslots of 11:00 AM - 12:00 PM and 3:00 PM - 4:00 PM, at these times the Member must keep noise to a minimum and refrain from distracting others;
-- only use the storage space on and/or under your designated (fixed) or chosen (hot) desk;
-- wash dry and put away kitchen utensils and crockery after use;
-- contact the Office Space manager by email if you have any questions or feedback;
-- immediately contact the Office Space manager by phone and email in the event of an emergency; and
-- ensure you have the contact details for the Office Space manager recorded and if you do not have these details, you must request them from hello@focushub.co.uk.
+If you have any questions at all, just grab one of the team or email hello@focushub.co.uk.
+
+### Please...
+
+* Treat all other Members with **courtesy and respect**
+* Respect the Daily **Power Hours** by keeping noise to a minimum between *11am - 12pm & 3pm - 4pm*
+* **Wash up and dry** any crockery/utensils you use before you leave for the day
+* **Remember what you've put in the fridge**, and when. For hygiene reasons, anything past its use-by date might be disposed of without warning
+* *Fixed deskers*: **keep your desks tidy** and the areas around you free from obstacles or fire hazards
+* *Hotdeskers*: **completely clear away the desk you've used at the end of each day** - you can't "save" a desk by leaving possessions on it overnight
+* If you're here after hours or on weekends, make sure to **turn off all the lights _and heaters_ before locking up** as you leave
+
+### Please don't...
+
+* Be excessively loud or disruptive
+* Use Focus Hub for anything other than office space
+* Use parts of the space which aren't communal or specifically assigned to you (e.g. shelves, lockers, storage space)
+* Share your keys (or your membership) with anyone else
+
+### IN CASE OF EMERGENCY
+
+* First make sure you're safe. Leave the space and call 999 immediately if there is a fire, or if anyone is injured
+* As long as you're not in any danger, contact one of the Focus Hub managers
+  * [Insert contact details from `Focus Hub (private) > Focus Hub Emergency Contact Numbers`]
